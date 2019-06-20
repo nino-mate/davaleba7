@@ -1,5 +1,5 @@
 body{
-	padding: 40px;
+	padding: 30px;
 }
 .container{
 	width: 1286px;
@@ -12,7 +12,7 @@ body{
 	font-family: 'MYRIADPROREGULAR';
 	position: static;
 	margin-bottom: 5px;
-	padding-left: 590px;
+	padding-left: 643px;
 }
 .navbar{
 	position: absolute;
@@ -31,11 +31,9 @@ body{
 }
 .logo{
 	height: 659px;
-	margin-right: 390px;
-	margin-top: 95px;
 	position: absolute;
 	right: 0;
-	top: 0;
+	top: 95px;
 	z-index: 9;
 }
 .white-box{
@@ -44,9 +42,7 @@ body{
 	background-color: white;
 	position: absolute;
 	left: 0;
-	bottom: 0;
-	margin-left: 39px;
-	margin-bottom: 10px;
+	bottom: -190px;
 	z-index: 10;
 }
 .green-box{
