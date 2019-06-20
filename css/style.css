@@ -24,8 +24,8 @@ body{
 }
 .logo{
 	height: 659px;
-	margin-right: 310px;
-	margin-top: 110px;
+	margin-right: 390px;
+	margin-top: 95px;
 	position: absolute;
 	right: 0;
 	top: 0;
@@ -39,7 +39,7 @@ body{
 	left: 0;
 	bottom: 0;
 	margin-left: 39px;
-	margin-bottom: 70px;
+	margin-bottom: -4px;
 	z-index: 10;
 }
 .green-box{
